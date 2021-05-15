@@ -1,8 +1,10 @@
 .header{
     display: flex;
     flex-direction: column;
-   border-bottom: solid 3px black;
+   border-bottom: solid 3px ;
     align-items: center;
+    color: cornsilk;
+    
 }
 
 *{
@@ -28,7 +30,7 @@ span{
 .forcast{
     display: flex;
     flex-direction: column;
-    border-bottom: solid 3px black;
+    border-bottom: solid 3px rgb(5, 5, 5);
     align-items: center;
 }
 
@@ -43,11 +45,14 @@ body{
     height: 100vh;
     width: auto;
     justify-content: center;
+    color: cornsilk;
+    
+    background-image: url("https://media.nationalgeographic.org/assets/photos/000/150/15034.jpg");
 }
 
 .main{
     border: solid 10px black;
-    background-color: rgba(169, 169, 169, 0.219);
+    background-color: rgb(48, 45, 65);
 }
 
 h1{
