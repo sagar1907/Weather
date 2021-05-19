@@ -52,7 +52,7 @@ body{
     justify-content: center;
     color: cornsilk;
     
-    background: url("https://media.nationalgeographic.org/assets/photos/000/150/15034.jpg");
+    background-image: url("https://media.nationalgeographic.org/assets/photos/000/150/15034.jpg");
     background-size: 100% 100vh;
     
 
